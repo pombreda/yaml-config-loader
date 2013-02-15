@@ -16,7 +16,7 @@ setup(
     description='YAML config loader',
     author='Łukasz Mierzwa',
     author_email='l.mierzwa@gmail.com',
-    url='https://github.com/prymitive/yaml_config_loader',
+    url='https://github.com/prymitive/yaml-config-loader',
     packages=find_packages(),
     classifiers=[
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
