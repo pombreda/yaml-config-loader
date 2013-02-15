@@ -25,4 +25,5 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     platforms=['any'],
+    install_requires=['yaml'],
 )
